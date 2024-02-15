@@ -744,11 +744,18 @@
 }
 
 @media (min-width: 701px) and (max-width: 1200px) {
-.coi-consent-banner__consent-area {
-    width: 30%;
-}}
+    .coi-consent-banner__consent-area {
+        width: 30%;
+    }
+}
 @media screen and (max-width: 700px) {
-.coi-consent-banner__summary {
-    padding-top: 40px;
-    padding-bottom: 40px;
-}}
+    .coi-consent-banner__summary {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+#coiConsentBanner {
+  font-family: 'Montserrat', 'sans-serif' !important;
+  font-style: normal !important;
+  font-weight: 500 !important
+ }

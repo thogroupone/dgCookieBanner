@@ -760,3 +760,10 @@
   font-style: normal !important;
   font-weight: 500 !important
  }
+.tornado-shop .bottom-bar__update-consent,
+.tornado-shop .coi-consent-banner__agree-button,
+.tornado-shop .coi-consent-banner__decline-button,
+.tornado-shop span#coiBannerHeadline,
+.tornado-shop #coiConsentBanner {
+  font-family: "Roboto", sans-serif !important;
+ }
